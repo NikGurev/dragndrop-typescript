@@ -1,0 +1,17 @@
+{
+  "name": "course-project",
+  "version": "1.0.0",
+  "description": "course-project",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server && tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "node-sass": "^5.0.0",
+    "sass": "^1.29.0"
+  }
+}
